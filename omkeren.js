@@ -5,4 +5,6 @@ function reverseString(str) {
     return joinArray;
 }
  
-reverseString("hello");
+const achteruit = reverseString("hallo");
+
+console.log(achteruit);
