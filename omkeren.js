@@ -3,7 +3,7 @@ function reverseString(str) {
     var reverseArray = splitString.reverse();
     var joinArray = reverseArray.join("");
     return joinArray;
-}
+};
  
 const achteruit = reverseString("hallo");
 
